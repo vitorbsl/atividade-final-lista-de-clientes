@@ -63,7 +63,7 @@ src/
 - [x] Usa `useState` para controlar formulário e lista de clientes
 - [x] Dados são passados por props entre componentes
 - [x] Sem bibliotecas ou APIs externas
-- [x] CSS simples, responsivo e organizado
+- [x] CSS simples, organizado
 
 ---
 
