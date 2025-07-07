@@ -16,6 +16,10 @@ Este projeto foi desenvolvido para praticar os conceitos básicos do React com u
 
 ---
 
+<img width="675" alt="Captura de Tela 2025-07-07 às 19 21 49" src="https://github.com/user-attachments/assets/78632d7f-9d08-4e2e-aaf8-404f0cdfb7a8" />
+
+<img width="677" alt="Captura de Tela 2025-07-07 às 19 22 43" src="https://github.com/user-attachments/assets/7fa732de-91db-4f5d-941c-9930c586bee6" />
+
 ## 🧠 O que você vai aprender
 
 - Organização em componentes
