@@ -1,1 +1,117 @@
 
+
+.container {
+  max-width: 600px;
+  background: #fff;
+  margin: auto;
+  padding: 30px;
+  border-radius: 10px;
+  box-shadow: 0 0 10px #ccc;
+}
+
+h1 {
+  text-align: center;
+  font-weight: bold;
+}
+
+.botoes {
+  display: flex;
+  justify-content: center;
+  gap: 10px;
+  margin-bottom: 20px;
+}
+
+.ver-clientes{
+    border-radius: 10px;
+}
+
+
+.ver-clientes:hover{
+   background-color: #027BFF;
+   color: #fff;
+}
+
+.ver-clientes:ativo{
+   background-color: #027BFF;
+   color: #fff;
+}
+
+.registrar-clientes{
+    border-radius: 10px;
+}
+
+.registrar-clientes:hover{
+    background-color: #027BFF;
+    color: #fff;
+}
+
+.registrar-clientes:ativo{
+    background-color: #027BFF;
+    color: #fff;
+}
+
+.limpar-clientes {
+  background-color: #dc3545;
+  color: white;
+  padding: 8px 16px;
+  margin-left: 10px;
+  border: none;
+  border-radius: 5px;
+  font-weight: bold;
+  cursor: pointer;
+  transition: background-color 0.2s;
+}
+
+.limpar-clientes:hover {
+  background-color: #c82333;
+}
+
+
+button {
+  padding: 10px 20px;
+  border: none;
+  cursor: pointer;
+}
+
+form input,
+form textarea {
+  width: 100%;
+  padding: 10px;
+  margin-bottom: 15px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+.btn-add {
+  background: #4CAF50;
+  color: white;
+  width: 104%;
+  padding: 15px;
+  font-size: 16px;
+  border: none;
+  border-radius: 5px;
+}
+
+.btn-add:hover {
+    opacity: 0.7;
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+}
+
+li {
+  background: #FAFAFA;
+  padding: 15px;
+  border-radius: 5px;
+  margin-bottom: 10px;
+  border: 1px solid #ccc;
+}
+
+.titulo-form {
+    display: flex;
+    font-weight: bold;
+    margin-bottom: 10px;
+    margin-top: 2px;
+}
